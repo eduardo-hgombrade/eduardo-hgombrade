@@ -1,6 +1,6 @@
 ## Olá eu sou o edudardo-hgombrade
 
-- 💻 Estudando programação Full Stack
+- 💻 Estudando programação Front End
 - 🕹️ Estudando programação de Jogos
 - 📕 Estou criando os meus primeiros projetos
 
