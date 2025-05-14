@@ -1,7 +1,6 @@
 ## Olá eu sou o edudardo-hgombrade
 
-- 💻 Estudando programação Front End
-- 🕹️ Estudando programação de Jogos
+- 💻 Cursando ADS (Análise e Desnvolvimento de Sistemas)
 - 📕 Estou criando os meus primeiros projetos
 
 ##
